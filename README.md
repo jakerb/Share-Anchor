@@ -18,8 +18,8 @@ In order to get Share Anchor working on your Anchor blog you will need to comple
 
 <!-- Share Anchor plugin -->
 
-```<link rel="stylesheet" type="text/css" href="/plugins/share-anchor/css/share-anchor.css">
-<script type="text/javascript" src="/plugins/share-anchor/js/jquery.js"></script>
-<script type="text/javascript" src="/plugins/share-anchor/js/share-anchor.js"></script>```
+`<link rel="stylesheet" type="text/css" href="/plugins/share-anchor/css/share-anchor.css">`
+`<script type="text/javascript" src="/plugins/share-anchor/js/jquery.js"></script>`
+`<script type="text/javascript" src="/plugins/share-anchor/js/share-anchor.js"></script>`
 
 Once you have saved the file, you are ready!
