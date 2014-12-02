@@ -6,7 +6,7 @@ A social sharing plugin for Anchor CMS using javascript and CSS.
 In order to get Share Anchor working on your Anchor blog you will need to complete the following steps.
 
 ###1. Create a `plugins` folder in  the base of your Anchor blog###
-*Create Upload the `share-anchor`, folder to the `plugins` folder*
+*Now upload the `share-anchor`, folder to the `plugins` folder*
 
 
 ###2. Edit the theme header found in /themes/default/header.php###
