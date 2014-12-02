@@ -9,7 +9,7 @@ In order to get Share Anchor working on your Anchor blog you will need to comple
 *Create Upload the `share-anchor`, folder to the `plugins` folder*
 
 
-###2. Edit the theme header found in '/themes/default/header.php'###
+###2. Edit the theme header found in /themes/default/header.php###
 *Once in the header file, after you find this line of code:*
 
 `<link rel="shortcut icon" href="<?php echo theme_url('img/favicon.png'); ?>">`
