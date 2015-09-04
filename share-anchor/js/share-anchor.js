@@ -22,16 +22,16 @@
  		returnTitle:function() {
 			var t = $(document).attr('title');
 			return encode(t);
-		}
+		},
 	
 		returnUrl:function(en) {
 			var h = $(location).attr('href');
 			return encode(h);
-		}
+		},
 	
 		encode:function(url) {
 			return encodeURIComponent(url);
-		}
+		},
  		
  		setup:function(html) {
  			footer.append(html);	
